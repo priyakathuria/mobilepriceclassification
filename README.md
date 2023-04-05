@@ -1,7 +1,7 @@
 # Mobile Price Classification-Project Overview
 The goal of this project is to develop classification model for dataset that hold several specifications of 2000 mobile phones attempt to predict best price ranges by applying either Artificial Neural Network or by using various machine learning algorithm.
 # Notebooks:
-Included in this github are a jupyter notebookscontaining:
+Included in this github is a jupyter notebook containing:
 
 EDA_DataPreprocessing_Mobile_Price_Classification.ipynb :A notebook where significant EDA to explore the variables as well as data preprocessing steps are performed.
 
