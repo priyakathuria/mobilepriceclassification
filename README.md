@@ -34,6 +34,7 @@ Implementation of Machine Learning Algorithms:
 2.	Random forest
 3.	KNN
 4.	SVM
+
 Implementation of Deep Learning Technique: Artificial Neural Network
 
 
