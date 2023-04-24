@@ -4,6 +4,8 @@ The goal of this project is to develop classification model for dataset that hol
 Included in this github is a jupyter notebook containing:
 
 EDA_DataPreprocessing_Mobile_Price_Classification.ipynb :A notebook where significant EDA to explore the variables as well as data preprocessing steps are performed.
+Project1_Mobile_Price_Classification.ipynb: A notebook where apart from EDA, models implementation which includes training, testing as well the performance of the models are evualuated using the metrics like accuracy,precision ,recall and F1-score are performed
+Also note, models are tested on different kind of input scenarios as well which includes- feature selection, PCA input, hyperparamter tuning
 
 # Main steps performed for EDA and data-preprocessing
 
@@ -23,3 +25,14 @@ EDA_DataPreprocessing_Mobile_Price_Classification.ipynb :A notebook where signif
 2. Finding the number of outliers and eliminating them
 3. Splitting the train and test dataset
 4. Standardizing the dataset
+
+# Models Implementation. training and analysis of results
+To predict the mobile phone price, we have applied different techniques on the input data like dimensionality reduction (PCA), feature selection and then used mentioned below machine learning algorithms and deep learning techniques on the training and test dataset. After that, we choose the best model for our data set based on the comparative results on the selected evaluation metrics like -accuracy,precision, Recall,F1-score.
+Implementation of Machine Learning Algorithms:
+1.	Logistic regression
+2.	Random forest
+3.	KNN
+4.	SVM
+Implementation of Deep Learning Technique: Artificial Neural Network
+
+
