@@ -4,6 +4,7 @@ The goal of this project is to develop classification model for dataset that hol
 Included in this github is a jupyter notebook containing:
 
 EDA_DataPreprocessing_Mobile_Price_Classification.ipynb :A notebook where significant EDA to explore the variables as well as data preprocessing steps are performed.
+
 Project1_Mobile_Price_Classification.ipynb: A notebook where apart from EDA, models implementation which includes training, testing as well the performance of the models are evualuated using the metrics like accuracy,precision ,recall and F1-score are performed
 Also note, models are tested on different kind of input scenarios as well which includes- feature selection, PCA input, hyperparamter tuning
 
